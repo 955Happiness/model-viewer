@@ -1,0 +1,19 @@
+commit a9433b04660234a6a045ba2002d2776d38d0a56e
+Author: Emmett Lalish <elalish@google.com>
+Date:   Thu Feb 4 14:08:59 2021 -0800
+
+    Adding KTX2 support (#1989)
+    
+    * added ktx2 support
+    
+    * Revert this, testing only
+    
+    * KTX2 working
+    
+    * Revert "Revert this, testing only"
+    
+    This reverts commit 686925e1ffcf769244ad67136a7f76e4944836ec.
+    
+    * updated default transcoder to gstatic
+    
+    * added example
